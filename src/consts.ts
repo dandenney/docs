@@ -39,6 +39,7 @@ export const SIDEBAR: Sidebar = {
     "Front-End": [
       { text: "Introduction", link: "en/introduction" },
       { text: "Snippets", link: "en/snippets" },
+      { text: "CSS", link: "en/css" },
     ],
     AI: [{ text: "Midjourney", link: "en/midjourney" }],
   },
